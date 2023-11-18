@@ -84,9 +84,9 @@ Hey there! I'm Junaid Ashraf, experienced full-stack PHP Laravel developer with 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/VUE-v3.3.8-98c611?style=for-the-badge&logo=vue" alt="Vue JS">
-  {/* <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-593D88?style=for-the-badge&logo=typescript"> */}
+<!--   {/* <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-593D88?style=for-the-badge&logo=typescript"> */}
   {/* <img alt="AngularCLI" src="https://img.shields.io/badge/AngularCLI-593D88?style=for-the-badge&logo=angular"> */}
-  {/* <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-593D88?style=for-the-badge&logo=material-ui"> */}
+  {/* <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-593D88?style=for-the-badge&logo=material-ui"> */} -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ebebeb?style=for-the-badge&logo=bootstrap">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-ebebeb?style=for-the-badge&logo=tailwind-css"> 
 </p>
