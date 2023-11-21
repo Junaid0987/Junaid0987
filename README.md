@@ -1,12 +1,11 @@
 
  <p align="center">
 
-  <img src="./Assets/porfolio-card.png" height="300px"/>
+  <img src="./Assets/portfolio-card.png" height="300px"/>
 </p>
 
 
 
-<!-- # 👨‍💻 Muammar Siddiqui | PHP/LARAVEL DEVELOPER -->
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Junaid+Ashraf" alt="Typing SVG" />
 
