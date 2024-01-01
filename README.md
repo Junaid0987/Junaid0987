@@ -11,7 +11,7 @@
 
 <!-- ![Header](assets/header.png) -->
 
-<h3 align="center">Full Stack Web and App Developer</h3>
+<h3 align="center">Full Stack Web Application Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/junaid-ashraf-85b799218/">
